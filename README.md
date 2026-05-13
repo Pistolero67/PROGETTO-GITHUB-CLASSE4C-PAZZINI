@@ -1,7 +1,2 @@
 # PROGETTO-GITHUB-CLASSE4C-PAZZINI
-
-
-
-ciao cc
-dita
-silv
+Nicoli Filippo 4c informartica olivelli putelli a Darfo Boario Terme. 
